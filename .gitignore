@@ -1,0 +1,5 @@
+uploads/*
+!uploads/.htaccess
+*.log
+.DS_Store
+Thumbs.db
